@@ -26,7 +26,6 @@ dist-ssr
 conspect.pdf
 TODO.md
 
-# Environment variables
 .env
 .env.*
 !.env.example
